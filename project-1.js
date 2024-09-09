@@ -2,7 +2,7 @@
 
 const num = Math.random()*20;
 const secret_number=Math.trunc(num)+1;
-
+// hello
 let score=20;
 let highscore=0;
 document.querySelector('.check').addEventListener
